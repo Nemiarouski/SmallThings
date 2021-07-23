@@ -1,6 +1,7 @@
 package fibonacci;
 
 import org.junit.jupiter.api.Test;
+import project.fibonacci.Fibonacci;
 
 import java.util.ArrayList;
 import java.util.List;
